@@ -2,6 +2,7 @@ ESRGAN models:
 jpeg destroyer v2
 mw upscale
 BCgone smooth
+Universal upscaler soft
 
 https://sketchfab.com/3d-models/jade-sword-e17b04ace1f6446a9d7080ffd327fb4b
 
@@ -108,3 +109,11 @@ Grummite Dagger
 https://sketchfab.com/3d-models/viking-axe-f544a50fdc554a31a01222956bdd9702
 
 "Viking Axe" (https://skfb.ly/6TnsT) by em_kei is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/hurdy-gurdy-9f43682466aa42c4af15004f946cea9f
+
+"Hurdy-Gurdy" (https://skfb.ly/6GwOz) by Steven Janes is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/golden-goat-pendant-655f841c34904944b15fe99d8edce7be
+
+"Golden Goat Pendant" (https://skfb.ly/6WPyE) by tonyrenzulli is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
