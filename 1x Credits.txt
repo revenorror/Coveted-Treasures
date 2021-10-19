@@ -212,10 +212,6 @@ https://sketchfab.com/3d-models/treasure-chest-9da7cd796bfa44ef8f4699675161115b#
 
 "Treasure chest" (https://skfb.ly/6UqwA) by Pedram Ashoori is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/antique-lacquered-box-dd3e0b0a5ef24803ac0608b2264ad53f
-
-"Antique lacquered box" (https://skfb.ly/o6OPK) by Insta3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/qalamdan-022cf4331e97446db92dc3d49106a680
 
 "Qalamdan" (https://skfb.ly/6ZYEC) by Giebel is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -252,9 +248,6 @@ https://sketchfab.com/3d-models/ornate-german-hand-axe-6385acaf09514266bdaf6e18a
 
 "Ornate German hand axe" (https://skfb.ly/onqYx) by amarbachiri90 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/ornate-antique-candlestick-cb0da4f8de694e1a9a3f58911f218a1c
-
-"Ornate Antique Candlestick" (https://skfb.ly/6WIKL) by avatrass is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/ornate-table-107cd01bce684efda1791045c1baf790
 
@@ -287,10 +280,6 @@ https://sketchfab.com/3d-models/golden-candlestick-0fae6bcadf084300a1038992f149b
 https://sketchfab.com/3d-models/bottle-of-port-free-download-34d0475889c945708f070959cbf0df58
 
 "Bottle of Port [Free Download]" (https://skfb.ly/6XIMv) by scrampunk is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/panpipes-free-download-5836cfe3f6384d349fd00692ab491c01
-
-"Panpipes [free download]" (https://skfb.ly/6XAL8) by scrampunk is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/trumpet-3f2d4f5b962340b2933012e1bc634d88
 
@@ -495,6 +484,14 @@ https://sketchfab.com/3d-models/netsuke-tinpo-deb87a5170cd4b95bef696772df0b4a5
 https://sketchfab.com/3d-models/lion-skull-c2016a3161954a00be97929750d55174
 
 "Lion Skull" (https://skfb.ly/KrEy) by Auckland Museum is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/forgotten-skull-a3d96696c1c140429dc2499d731be479
+
+"Forgotten Skull" (https://skfb.ly/6TAEQ) by Nick Scott is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/warthog-skull-c2b1d3cd5d0e44d29db4c6cffc7a6056
+
+"Warthog Skull" (https://skfb.ly/6SrAs) by Hammy is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
 
 https://sketchfab.com/3d-models/porcelain-egg-adec2d566ae0490d8edae23790b97555
 
@@ -770,5 +767,129 @@ https://sketchfab.com/3d-models/ring-of-the-north-f2419e6272af43a7bd1845edd02312
 https://sketchfab.com/3d-models/the-bust-of-jan-matejko-0c4ec0d57dcb40d08be7f1171c6afa80
 
 "The bust of Jan Matejko" (https://skfb.ly/o6vQt) by Malopolska`s Virtual Museums is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/battle-axe-ad66527e46624b75bdf465a966b5c233
+
+"Battle Axe" (https://skfb.ly/QZwn) by jesusrck is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/necromancer-board-for-deak-0d084ffd961a4cc29b9e786c4cc27fc2
+
+"Necromancer Board for Deak" (https://skfb.ly/6WYIN) by Jasmine is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/ceramic-jar-4762f933f4c44f8a8b4d10b80d8d9b38
+
+"Ceramic Jar" (https://skfb.ly/6G8or) by MarshN is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/bat-door-knocker-0e63e3bbb8934d5ba3059cd2924701ab
+
+"Bat Door Knocker" (https://skfb.ly/TOEn) by Joseph Lefebvre is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+https://sketchfab.com/3d-models/the-jennings-dogs-ee38389231624760b0e96968d6006012
+
+"The Jennings Dogs" (https://skfb.ly/6xLWK) by Loïc Norgeot is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+https://sketchfab.com/3d-models/horsy-c8b729414e1f4faa8f992d89b82d995f
+
+"Horsy" (https://skfb.ly/6WPBz) by The-Rancid-Cat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/chinese-qilin-statue-low-polygon-a7732061faba4d40abf287e261369a25
+
+"Chinese Qilin Statue Low polygon" (https://skfb.ly/6X6Fq) by Sakchai.Sompila is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/stingray-plush-toy-ab8a4df5160f4dd8953beb9e485820b8
+
+"Stingray plush toy" (https://skfb.ly/6WOrW) by redbloodpivot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/ceramic-bowl-with-fish-lid-6672c9a4849c4f01acf059d806f18d3f
+
+"Ceramic Bowl with Fish Lid" (https://skfb.ly/6ZErn) by nezticle is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/porcelain-mask-596d7fbddfdd4cbab5a81878e1bd7741
+
+"Porcelain Mask" (https://skfb.ly/6vGFr) by sleepwalker77 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/ceramic-pot-81cc3c4b1349471c9e927cb845a94f49
+
+"Ceramic Pot" (https://skfb.ly/opJzK) by Annie Hanson is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/blue-ceramic-mug-1971-0dec3d46d07c43ab9e76bd2f6091262a
+
+"Blue Ceramic Mug 1971" (https://skfb.ly/6RJqM) by Jorgen Nelson is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/formatgera-casa-gassia-ecomuseu-valls-daneu-5679cddc744c4f39b731890788405de6
+
+"Formatgera Casa Gassia. Ecomuseu Valls d'Àneu" (https://skfb.ly/oo8T6) by Giravolt is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/the-lord-of-the-rings-hadhafang-36a3d9899078457cbf604cfa735c87fa
+
+"The Lord of the Rings - Hadhafang" (https://skfb.ly/oooDv) by Aren Boada is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/medieval-fantasy-sword-60d045b447d341879cb43a19edd9b6f3
+
+"Medieval fantasy sword" (https://skfb.ly/6YzBp) by Aren Boada is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/nord-axe-cc7742de828340f99d9bfe6603a24d04
+
+"Nord axe" (https://skfb.ly/6WVN8) by KIFIR is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+https://sketchfab.com/3d-models/gislinge-viking-boat-01098ad7973647a9b558f41d2ebc5193
+
+"Gislinge Viking Boat" (https://skfb.ly/6VWyz) by Opus Poly is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/knife-78c2352c888146dd929041f44875ff70
+
+"Нож | Knife" (https://skfb.ly/6vpq7) by Jar3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/medieval-war-hammer-665734b41cce4a49abeb757c3bda7705
+
+"Medieval War Hammer" (https://skfb.ly/6XZJt) by Parelaxel is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/writhen-hilted-sword-5fb9afc719f94fd0b77b723358b68715
+
+"Writhen Hilted Sword" (https://skfb.ly/6RQWt) by Arnold Konrad is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/bronze-sword-5ad1334f2aee42ff86c68b34dd39ac92
+
+"Bronze sword" (https://skfb.ly/JUDy) by filthycent is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/oathkeeper-bfa5fe1d847c4591ab7d1ec77774a3f7
+
+"Oathkeeper" (https://skfb.ly/6SpBO) by Efarys is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/mace-one-handed-01-80344ed475144d9faec6810d00711488
+
+"Mace - One Handed - 01" (https://skfb.ly/6tQDM) by vegu is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+https://sketchfab.com/3d-models/grinning-blade-0daeb6ffd3e94b2fb33c5e546d980ab4
+
+"Grinning Blade" (https://skfb.ly/6yCNo) by iceboxX708 is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+https://sketchfab.com/3d-models/the-ork-comb-a-dwarfen-axe-d4ebf6db53e24df3a1efdc543ede80b2
+
+"The "Ork Comb" a Dwarfen Axe" (https://skfb.ly/6XUwQ) by iceboxX708 is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+https://sketchfab.com/3d-models/roman-shield-7a1e3e626c9f4ef9bad7e9ba0bb2d12b
+
+"Roman Shield" (https://skfb.ly/6ooKv) by TraianDumbrava is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/mace-05beae26a9bb46dea8dd888e54b0b74a
+
+"Mace" (https://skfb.ly/6wzMT) by J_Son is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/apollos-shield-114a2f315e734ba1b7f3c3b75fcb34fa
+
+"Apollo's shield" (https://skfb.ly/6RWuy) by rubenve is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/dagger-of-thorns-47e0640438e3422db33c3b095f957b7c
+
+"Dagger of Thorns" (https://skfb.ly/UBQI) by Thomas Fraser is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/kama-dagger-f5236789a5094b8fa1d800ffdb29dfa6
+
+https://sketchfab.com/3d-models/octopus-candle-low-81853c50dd2243efa5b9eba0831b6d1f
+
+"Octopus candle Low" (https://skfb.ly/6uALZ) by yury_gerasimov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
 
 
