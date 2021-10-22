@@ -26,8 +26,6 @@ https://sketchfab.com/3d-models/mini-mammoth-charm-f767e0ca9ab6491d9172f68d05c2b
 
 https://sketchfab.com/3d-models/hutsul-cheese-horse-baranczyk-68146b83617743b69060020d5882017c
 
-https://sketchfab.com/3d-models/anatomical-figure-ecorches-675678f1e3b3425dba685f5421f57cd4
-
 https://sketchfab.com/3d-models/celtic-glass-bead-36dcdf95ce0d466c865da89a612d490f
 
 https://sketchfab.com/3d-models/mask-of-dagoth-ur-0a4d591f97bb428e91d24b57ecc659d3
@@ -633,14 +631,10 @@ https://sketchfab.com/3d-models/beard-tax-token-fcfafaaa73e94d5084451fa7f606bfbc
 
 "Beard Tax Token" (https://skfb.ly/6BAxx) by Chaitanya Krishnan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/ancient-token-mongolian-ancient-token-7d25f67333ee4a94a12e08286467d825
-
-"Ancient Token, Mongolian Ancient Token" (https://skfb.ly/6YEPL) by Enkhjargal is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/ornament-owl-4128c1b79080437fad657f71cfd4e705
 
 "Ornament Owl" (https://skfb.ly/6WU9s) by dmax3d is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 
 https://sketchfab.com/3d-models/glass-bunny-caeb681795a54c6eb0bf120582fe7f45
 
@@ -663,8 +657,6 @@ https://sketchfab.com/3d-models/unicorn-550ad3b23c2249f2a58211b818a8a998
 "Unicorn" (https://skfb.ly/6T7wI) by dmax3d is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/gathering-horn-fbec40f2c1b947b4a0668d593e3f67c9
-
-https://sketchfab.com/3d-models/medallion-for-a-beadwork-necklace-142d386fba0b419ead86627554e4e731
 
 https://sketchfab.com/3d-models/artificial-arm-3e939f48d3ad4daa87ba54659601268e
 
@@ -889,6 +881,10 @@ https://sketchfab.com/3d-models/kama-dagger-f5236789a5094b8fa1d800ffdb29dfa6
 https://sketchfab.com/3d-models/octopus-candle-low-81853c50dd2243efa5b9eba0831b6d1f
 
 "Octopus candle Low" (https://skfb.ly/6uALZ) by yury_gerasimov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/old-anvil-0c169611fec5415da9e8fec0410404a1
+
+"Old Anvil" (https://skfb.ly/6SNNC) by Filip is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 
 
