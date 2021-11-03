@@ -1,8 +1,8 @@
 ESRGAN models:
 jpeg destroyer v2
 mw upscale
-BCgone smooth
-Universal upscaler soft
+BCgone smooth/detailed
+Universal upscaler soft/detailed
 
 https://sketchfab.com/3d-models/jade-sword-e17b04ace1f6446a9d7080ffd327fb4b
 
