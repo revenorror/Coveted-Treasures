@@ -386,8 +386,6 @@ https://sketchfab.com/3d-models/vietnamese-bottle-vase-yu-hu-chun-15th-c-ce-49dc
 
 https://sketchfab.com/3d-models/netsuke-curled-rat-eccf468de31a4cf2bdc8c88a7ab4a8da
 
-https://sketchfab.com/3d-models/ivory-skull-netsuke-2d6bcd8304c74a78af92c8819e71d13a
-
 https://sketchfab.com/3d-models/netsuke-mouse-with-chestnut-3a345f16a90b44dc868772dbfba411d2
 
 https://sketchfab.com/3d-models/bird-plate-with-wordsworth-poem-81602a3c27094c478c5b81d97a3750ec
@@ -515,10 +513,6 @@ https://sketchfab.com/3d-models/inkwell-from-bell-rock-lighthouse-8063692b097e48
 https://sketchfab.com/3d-models/ch1972245b-scrimshaw-ca-1870s-5b2445acf2ea41458ddcd67834c818db
 
 "CH1972.245b Scrimshaw - ca. 1870s" (https://skfb.ly/6TuIF) by Western Australian Museum is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/smierc-eng-death-painting-ea0baac65c454953b12224c0ea9488ac
-
-""Śmierć" (eng. "Death") painting" (https://skfb.ly/6TK6X) by SebastianSosnowski is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/photo-frame-2-b84dfc98d44d470ebff1ff6fbe36f57a
 
@@ -921,14 +915,6 @@ https://sketchfab.com/3d-models/cows-heart-charm-fdae5349c84247fbaac3fa18d5fa24a
 
 "Cow's heart charm" (https://skfb.ly/TnUE) by The Cuming Museum is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/flat-corinthian-oinochoe-pure-quads-1078-verts-ad24c5f3ceab441d8cca213424fb663c
-AND
-https://sketchfab.com/3d-models/flat-corinthian-oinochoe-dea6de06ac9443d7b9976c2135d4ff50
-
-"Flat Corinthian Oinochoe Pure Quads 1078 Verts" (https://skfb.ly/ooNSx) by Anatomy by Doctor Jana is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-"Flat Corinthian Oinochoe" (https://skfb.ly/o6xGZ) by Global Digital Heritage is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
-
 https://sketchfab.com/3d-models/turtle-shell-game-ready-2k-pbr-2feb924a28aa4265aed3306be40d1f8f#download
 
 "Turtle Shell (Game Ready / 2K PBR)" (https://skfb.ly/ooByS) by Meerschaum Digital is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -936,4 +922,32 @@ https://sketchfab.com/3d-models/turtle-shell-game-ready-2k-pbr-2feb924a28aa4265a
 https://sketchfab.com/3d-models/dog-figurine-30adb4430a1a4b6bb79efdc0d15c26fd
 
 "Dog figurine" (https://skfb.ly/6XHoo) by Giebel is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/vincent-van-goghs-olive-trees-0a4e3af44632467f901c23fd140fedc2
+
+https://sketchfab.com/3d-models/le-massage-musee-des-augustins-11dffc673bfe43639c429109d7177971
+
+"Le Massage, musée des Augustins" (https://skfb.ly/ZPNL) by Archéomatique is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+https://sketchfab.com/3d-models/daubignys-the-dunes-at-camiers-fe2b13b786e141a28993792e1650d753
+
+https://sketchfab.com/3d-models/plat-a-decor-de-tete-de-femme-sur-fond-or-d19fe2aea16d419da68824d717ba4e22
+
+"Plat à décor de tête de femme sur fond or" (https://skfb.ly/6zJBz) by Alienor.org, Conseil des musées is licensed under CC Attribution-NonCommercial-NoDerivs (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+https://sketchfab.com/3d-models/mignon-ad9addc865b14c0193f7380329be5a0e
+
+"Mignon" (https://skfb.ly/6AsHo) by Geoffrey Marchal is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+https://sketchfab.com/3d-models/water-lilies-agapanthus-claude-monet-e9c28c48229943778b38a03056f17395
+
+"Water Lilies (Agapanthus) - Claude Monet" (https://skfb.ly/6UZvC) by Thomas Flynn is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/willows-and-bridge-8216eedfb02c4b41badb0251242b0c6a
+
+"柳橋図屏風 / Willows And Bridge" (https://skfb.ly/6REWF) by Thomas Flynn is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/b4693-51b187355af643f7b8fd0509842b1c1a
+
+"B4693" (https://skfb.ly/6Y6sv) by Transylvanian Museum of Ethnography is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
