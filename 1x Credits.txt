@@ -144,14 +144,6 @@ https://sketchfab.com/3d-models/magic-mirror-184baa16500841ef86fdc94e62017e58
 
 "Magic Mirror" (https://skfb.ly/6WzEw) by allyc3d is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/granny-skull-heaj-4db77b495bb94b6a9f5b0fc049af4f2b
-
-"Granny Skull - HEAJ" (https://skfb.ly/6VA6S) by mehdi.benkaddour is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/bottle-with-scroll-1b20457597f44190a5ed24f68050fada
-
-"Bottle with scroll" (https://skfb.ly/6AtGW) by Marcus Vinicius is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/golden-flagon-c1737d9c0b6c4ed5b92f931b522f0a5a
 
 "Golden flagon" (https://skfb.ly/6VyMO) by mandragorasprout is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -159,7 +151,6 @@ https://sketchfab.com/3d-models/golden-flagon-c1737d9c0b6c4ed5b92f931b522f0a5a
 https://sketchfab.com/3d-models/old-gold-key-f5dc85be7a5041af8664c50959c89001
 
 "Old Gold Key" (https://skfb.ly/6WP69) by 3Dee is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 
 https://sketchfab.com/3d-models/sapphire-crown-5a162a3161a541df859b8311533130b3
 
@@ -236,7 +227,6 @@ https://sketchfab.com/3d-models/ornate-book-f55f8ffd11ef48629962d0f178039849
 https://sketchfab.com/3d-models/ornate-german-hand-axe-6385acaf09514266bdaf6e18a6b71f0f
 
 "Ornate German hand axe" (https://skfb.ly/onqYx) by amarbachiri90 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 
 https://sketchfab.com/3d-models/ornate-table-107cd01bce684efda1791045c1baf790
 
@@ -340,27 +330,15 @@ https://sketchfab.com/3d-models/jade-shuriken-20f3e197aac242058b6bf2cb97fb19f1
 
 https://www.nexusmods.com/skyrimspecialedition/mods/25798
 
-https://www.nexusmods.com/skyrimspecialedition/mods/4559
-
 https://www.nexusmods.com/skyrimspecialedition/mods/190
-
-http://tesalliance.org/forums/index.php?/files/file/1410-insanitys-dwemer-clutter/
 
 https://sketchfab.com/3d-models/thy-candy-free-3d-f63a19caad054232bada31bf9dda010b
 
 "Thy Candy (Free 3D)" (https://skfb.ly/6xpRZ) by art_em is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/russian-sugar-candy-cbf3596eecda470a855d0251790acc46
-
-"Russian Sugar Candy" (https://skfb.ly/o6QYH) by patrakeevasveta is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/bony-knife-a6d397ca7b7740bfbd6e8769b312f88b
 
 "Bony Knife" (https://skfb.ly/6WZ9v) by social_candy is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/calisson-daix-f4e9c12b826348cab40d550f6d859fd9
-
-"Calisson d'Aix" (https://skfb.ly/6ZLnO) by Thomas Rigauts is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/commemorative-box-with-coins-and-a-banknote-d02ed62181d942fc9a1527b49bc67b17
 
@@ -607,7 +585,6 @@ https://sketchfab.com/3d-models/artemis-fountain-b9985a307aac41bbad4339fa46122d7
 https://sketchfab.com/3d-models/beard-tax-token-fcfafaaa73e94d5084451fa7f606bfbc
 
 "Beard Tax Token" (https://skfb.ly/6BAxx) by Chaitanya Krishnan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 
 https://sketchfab.com/3d-models/ornament-owl-4128c1b79080437fad657f71cfd4e705
 
