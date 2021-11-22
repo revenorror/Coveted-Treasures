@@ -336,10 +336,6 @@ https://sketchfab.com/3d-models/lion-skull-c2016a3161954a00be97929750d55174
 
 "Lion Skull" (https://skfb.ly/KrEy) by Auckland Museum is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/warthog-skull-c2b1d3cd5d0e44d29db4c6cffc7a6056
-
-"Warthog Skull" (https://skfb.ly/6SrAs) by Hammy is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
-
 https://sketchfab.com/3d-models/porcelain-egg-adec2d566ae0490d8edae23790b97555
 
 "Porcelain egg" (https://skfb.ly/6yUPn) by Kea-Makerlab is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -357,10 +353,6 @@ https://sketchfab.com/3d-models/potion-bottle-d69aa4d74c804a70b026c9239476d5fc
 "Potion Bottle" (https://skfb.ly/oo8GH) by shedmon is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/necklace-zgarda-0e135bf28e3f4c35bf9ac6a36c46739a
-
-https://sketchfab.com/3d-models/drum-set-indonesian-inspiration-178ebae36e204f5488ad0c2ceb25cd5a
-
-"Drum Set Indonesian inspiration" (https://skfb.ly/6sLzE) by Léonard_Doye Alias Leoskateman is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/broken-spear-aaa9d851368a4094a6b3eaef8a7e880c
 
@@ -397,10 +389,6 @@ snowray
 https://sketchfab.com/3d-models/lost-map-e0b9cdf4c9a546c58fe073fbdc5b2f72
 
 "Lost Map" (https://skfb.ly/6vOvu) by Multipainkiller Studio is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/scan-licorne-skull-effd61ea2ad14598995144320ff45f51
-
-"#SCAN - Licorne Skull" (https://skfb.ly/6WXNw) by SH3D | KUB is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/mermaid-jewel-box-6a4e2200b8f749d8a7c5a53fd6920027
 
@@ -544,14 +532,6 @@ https://sketchfab.com/3d-models/solus-7ba002e138a24c46a927d8462e479091
 
 "Solus" (https://skfb.ly/6VZzC) by Efarys is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/urfin-juice-golden-scepter-6f30b84e8f4c414fa1214d9b1d1a4e13
-
-"Urfin Juice golden scepter" (https://skfb.ly/6FQTN) by gorbovski is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/stone-celtic-structure-d48e35d5ab5a4a84b0fd22a7732272f4
-
-"Stone Celtic Structure" (https://skfb.ly/6XpUS) by Sky_Hunter is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/ring-of-honor-79d405d271df4f72aed2408eb9902104
 
 "Ring of honor" (https://skfb.ly/6YpWE) by cimetovsan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -658,10 +638,6 @@ https://sketchfab.com/3d-models/battle-axe-ad66527e46624b75bdf465a966b5c233
 
 "Battle Axe" (https://skfb.ly/QZwn) by jesusrck is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/lotr-mirkwood-axe-97825d972f114531b91320c1ff319221
-
-"LOTR - Mirkwood Axe" (https://skfb.ly/6WMYw) by avelium is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/ottoman-helmet-f641543b60214a55bb04e05e4a2310f9
 
 "Ottoman helmet" (https://skfb.ly/6WMYY) by SebastianSosnowski is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -689,10 +665,6 @@ https://sketchfab.com/3d-models/human-skull-in-weathered-bronze-14199dbb085d4bfe
 https://sketchfab.com/3d-models/paladin-shield-free-download-0ae0f62030ad48d88364b327b7cd3fc3
 
 "Paladin Shield [Free Download]" (https://skfb.ly/6WSQO) by Efarys is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/warthog-skull-c2b1d3cd5d0e44d29db4c6cffc7a6056
-
-"Warthog Skull" (https://skfb.ly/6SrAs) by Hammy is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
 
 https://sketchfab.com/3d-models/elven-leaf-brooch-lotr-8e4e85dddfe44ea8a80de4ce89d8a100
 
@@ -752,17 +724,9 @@ https://sketchfab.com/3d-models/wolf-head-statuine-18416669ecc446d39a6cfe92b0bff
 
 "Wolf Head Statuine" (https://skfb.ly/VJTu) by Abimael Gonzalez is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/seashell-6ef35603d7bb4f32aae6d5de19814f1a
-
-"SeaShell" (https://skfb.ly/o7yTA) by michaelrobekk is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/handpainted-nightday-pendant-223db3cfcab543e7b3a929ba240d9f0d
 
 "Handpainted Night/Day Pendant" (https://skfb.ly/6TIvr) by AyyZerr is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/fishing-rod-1ffdece4c1054f44b640ef3a189ada09
-
-"Fishing Rod" (https://skfb.ly/opGnP) by shedmon is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/pirate-compass-3a51cfca26b34da7a8ac02af373cd130
 
@@ -772,27 +736,11 @@ https://sketchfab.com/3d-models/snakehead-staff-0556e75d9d4143c59835d78280a544d6
 
 "Snakehead Staff" (https://skfb.ly/onR6E) by GreatTug is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/stone-sword-e56ac47793ae466689fa3d612216d2ee
-
-"Stone Sword" (https://skfb.ly/6FnTw) by Organization is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/crystal-stone-rock-1ad829e2f464446fa4945562ab611255
-
-"Crystal stone (rock)" (https://skfb.ly/6WMAx) by GenEugene is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
-
 https://sketchfab.com/3d-models/old-compass-49dd4dbfc330420f9520126bb8460652
 
 "Old Compass" (https://skfb.ly/6RQ8I) by firaira is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/chess-knight-frozen-87f54836993944c2ad092f1c405eed42#download
-
-"chess knight frozen" (https://skfb.ly/6SpZQ) by zeariot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/gargoyle-62eb766517024004865f3e80699815ac
 
 "Gargoyle" (https://skfb.ly/6VYNG) by Virtua Con is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/gezinkte-spielkarte-km-o811-986967509d8d4774b87c6f4acc53a5ab
-
-"gezinkte Spielkarte KM-O.811" (https://skfb.ly/6UFHX) by Thomas Flynn is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
