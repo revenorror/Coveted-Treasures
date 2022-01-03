@@ -38,10 +38,6 @@ https://sketchfab.com/3d-models/old-crown-a71f4fbe14b84b5a8df45244a7645605
 
 "Old Crown" (https://skfb.ly/66UtI) by Macovei Tudor is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/tutankhamuns-meteoric-dagger-1323-bce-505fdc27fc1a4fcaa0e2239fb4b36f99
-
-"Tutankhamun's Meteoric Dagger 1323 BCE" (https://skfb.ly/6xKEs) by Tom_Bentkowski is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/adaptive-modeling-sheepi-18f24469e8364c0e81efebe88548e8f5
 
 "Adaptive modeling - Sheepi" (https://skfb.ly/6ZK9J) by lxt5392 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -524,10 +520,6 @@ https://sketchfab.com/3d-models/cows-heart-charm-fdae5349c84247fbaac3fa18d5fa24a
 
 "Cow's heart charm" (https://skfb.ly/TnUE) by The Cuming Museum is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/turtle-shell-game-ready-2k-pbr-2feb924a28aa4265aed3306be40d1f8f#download
-
-"Turtle Shell (Game Ready / 2K PBR)" (https://skfb.ly/ooByS) by Meerschaum Digital is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/dog-figurine-30adb4430a1a4b6bb79efdc0d15c26fd
 
 "Dog figurine" (https://skfb.ly/6XHoo) by Giebel is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -551,10 +543,6 @@ https://sketchfab.com/3d-models/a-gold-pendant-baroque-pearls-and-enamel-d2c4d12
 https://sketchfab.com/3d-models/cupholder-f2ccc7cb8b8a4097827005c018345254
 
 "Cupholder" (https://skfb.ly/6YQWX) by Lunev is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/viking-bowl-17ea64c7e0874536b57ca9bff6f47315
-
-"Viking Bowl" (https://skfb.ly/6X9sM) by photonmammoth is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/perfume-bottle-772053d28e6e403e995fa8549d2650c2
 
@@ -602,8 +590,27 @@ https://sketchfab.com/3d-models/esbos-disabel-ii-amb-el-princep-dasturies-ub-a4e
 
 "Esbós d'Isabel II amb el Príncep d'Astúries, UB" (https://skfb.ly/6YXzw) by Giravolt is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/cougar-statue-bc6268a7916d48729f9afac0f1eb0cd9#download
+https://sketchfab.com/3d-models/big-gold-plate-fd3fdda08ae845a089705fd0e904f732
 
-"Cougar statue" (https://skfb.ly/6vtGS) by Paulina is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+"Big Gold Plate" (https://skfb.ly/6WWOz) by IUPUI University Library is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
+https://sketchfab.com/3d-models/little-gold-plate-fc49c0b30bd84d26b79416da9f897766
+
+"Little Gold Plate" (https://skfb.ly/6XtBt) by IUPUI University Library is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/carnyx-e63fae43f9844a859172244c282d5434
+
+"Carnyx" (https://skfb.ly/6XJWP) by Duznot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/estimballs-de-pols-museu-de-lemporda-a0ef59f858d04ab0ad8cc3f02e75b120
+
+"Estimballs de pols, Museu de l'Empordà" (https://skfb.ly/oqzSP) by Giravolt is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/gembe-a739636ab13f4407bc0a6d019b4583b2
+
+"Gembe" (https://skfb.ly/UAGI) by Francesco Coldesina is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/12th-c-ce-rayy-ware-bowl-e2b6bd9d196f45a4a0f4f1921e47c779
+
+"12th C CE Rayy Ware Bowl" (https://skfb.ly/o7x9v) by Minneapolis Institute of Art is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
