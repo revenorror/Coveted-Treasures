@@ -3,6 +3,7 @@ jpeg destroyer v2
 mw upscale
 BCgone smooth/detailed
 Universal upscaler soft/detailed
+Jaywreck lite
 
 https://sketchfab.com/3d-models/jade-sword-e17b04ace1f6446a9d7080ffd327fb4b
 
@@ -603,4 +604,19 @@ https://sketchfab.com/3d-models/gothic-axe-of-li-fan-art-2855bce9bade4eda8f331b2
 https://sketchfab.com/3d-models/black-glazed-bowl-3508e1dfb4334a2f8a54a8bb6763043d
 
 "Black Glazed Bowl" (https://skfb.ly/6THrJ) by Global Digital Heritage is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+https://sketchfab.com/3d-models/presentation-sword-b8686b23e21e49149a07050df60e47d9
+
+"Presentation Sword" (https://skfb.ly/onuHS) by Arnold Konrad is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/prop-dranyen-lute-4c56acd595f940ceb3a71ffba8dce5ac
+
+"Prop - Dranyen Lute" (https://skfb.ly/6WRoY) by andrea.notarstefano is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/byzantine-medieval-papyrus-6c2e2e130a244ed7a49d78df632652e8
+
+"Byzantine-Medieval Papyrus" (https://skfb.ly/6XWIL) by Thomas Flynn is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/decorative-battle-axe-97575b982f5944baa0c9062d8107a983
+
 
