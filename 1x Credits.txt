@@ -266,10 +266,6 @@ https://sketchfab.com/3d-models/porcelain-egg-adec2d566ae0490d8edae23790b97555
 
 "Porcelain egg" (https://skfb.ly/6yUPn) by Kea-Makerlab is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/lost-wax-bracelet-dd512dcd88ac4959bdaedfe69854aaa5
-
-"Lost Wax Bracelet" (https://skfb.ly/6AJJD) by IUPUI University Library is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/potion-bottle-d69aa4d74c804a70b026c9239476d5fc
 
 "Potion Bottle" (https://skfb.ly/oo8GH) by shedmon is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -343,10 +339,6 @@ https://sketchfab.com/3d-models/gathering-horn-fbec40f2c1b947b4a0668d593e3f67c9
 https://sketchfab.com/3d-models/artificial-arm-3e939f48d3ad4daa87ba54659601268e
 
 "Artificial Arm" (https://skfb.ly/6R6sF) by Science Museum Group is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
-
-https://sketchfab.com/3d-models/nigerian-gourd-f0fa140569e046c18362ba668ee62510
-
-"Nigerian Gourd" (https://skfb.ly/6XtBy) by IUPUI University Library is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/bronze-horse-5abeb42ea0ea46f88188df4f6c130cde
 
@@ -660,5 +652,12 @@ https://sketchfab.com/3d-models/fantasy-longsword-54d55faea12a47ff83b7c941ed16e3
 
 "Fantasy Longsword" (https://skfb.ly/ontRY) by Faber is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
+https://www.nexusmods.com/skyrim/mods/16525
+Modder's Resource Pack by Oaristys and Tony67
+https://www.nexusmods.com/skyrim/mods/85497
+https://www.nexusmods.com/skyrim/mods/94821
+https://www.nexusmods.com/skyrim/mods/83953
+https://www.nexusmods.com/skyrim/mods/77097
+https://www.nexusmods.com/skyrim/mods/68755
 
 
