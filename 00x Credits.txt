@@ -4,6 +4,7 @@ mw upscale
 BCgone smooth/detailed
 Universal upscaler soft/detailed
 Jaywreck lite
+Superscale
 
 https://sketchfab.com/3d-models/jade-sword-e17b04ace1f6446a9d7080ffd327fb4b
 
@@ -229,10 +230,6 @@ https://sketchfab.com/3d-models/ornate-antique-candlestick-cb0da4f8de694e1a9a3f5
 
 "Ornate Antique Candlestick" (https://skfb.ly/6WIKL) by avatrass is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/candle-stand-e2688126f09b444bb8f0dd4543499fef
-
-"Candle Stand" (https://skfb.ly/6XDOz) by Amatsukast is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
 https://sketchfab.com/3d-models/rlyeh-dagger-59e2db7b4092493cb2f661dd461a68ad
 
 "R'lyeh Dagger" (https://skfb.ly/6VDM7) by SchrisArt is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -362,10 +359,6 @@ https://sketchfab.com/3d-models/ceramic-bowl-with-fish-lid-6672c9a4849c4f01acf05
 
 "Ceramic Bowl with Fish Lid" (https://skfb.ly/6ZErn) by nezticle is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/small-silver-jewlery-box-f5fcf66d2c184ea7af084698673ac601
-
-"Small silver jewlery box" (https://skfb.ly/6WKST) by Asylum Nox is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/game-of-thrones-wildlings-metal-shield-06bb3a6e121a4e35b2e7620b72f78e4a
 
 "Game of Thrones Wildlings Metal Shield" (https://skfb.ly/6WYPX) by avelium is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -423,10 +416,6 @@ https://sketchfab.com/3d-models/gezinkte-spielkarte-km-o811-986967509d8d4774b87c
 
 "gezinkte Spielkarte KM-O.811" (https://skfb.ly/6UFHX) by Thomas Flynn is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-https://sketchfab.com/3d-models/stone-sword-e56ac47793ae466689fa3d612216d2ee
-
-"Stone Sword" (https://skfb.ly/6FnTw) by Organization is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/crystal-stone-rock-1ad829e2f464446fa4945562ab611255
 
 "Crystal stone (rock)" (https://skfb.ly/6WMAx) by GenEugene is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
@@ -438,10 +427,6 @@ https://sketchfab.com/3d-models/lotr-mirkwood-axe-97825d972f114531b91320c1ff3192
 https://sketchfab.com/3d-models/warthog-skull-c2b1d3cd5d0e44d29db4c6cffc7a6056
 
 "Warthog Skull" (https://skfb.ly/6SrAs) by Hammy is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
-
-https://sketchfab.com/3d-models/fishing-rod-1ffdece4c1054f44b640ef3a189ada09
-
-"Fishing Rod" (https://skfb.ly/opGnP) by shedmon is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/urfin-juice-golden-scepter-6f30b84e8f4c414fa1214d9b1d1a4e13
 
@@ -525,10 +510,6 @@ https://sketchfab.com/3d-models/11th-mystery-lupa-antigua-a4e4732471094091a83da1
 
 "11th - Mystery // Lupa Antigua" (https://skfb.ly/6WMIv) by Ringo Gunther is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/rocking-horse-c7814a2dd9434847beac62ecb703f1d4
-
-"Rocking Horse" (https://skfb.ly/TqCP) by plasmaernst is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
 https://sketchfab.com/3d-models/skull-of-goblin-b94eecadc97d495e9f275d9c91adba42
 
 "Skull of goblin" (https://skfb.ly/6xRXF) by lostsoundzz is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -560,10 +541,6 @@ https://sketchfab.com/3d-models/genie-lamp-1f517175aa1649e9baa72f964b938448
 https://sketchfab.com/3d-models/denim-whale-plush-e099fdc80c954e44b784d9b9127ec4fc
 
 "Denim Whale Plush" (https://skfb.ly/YIrU) by Mattyew is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/hookah-e14b842465864eada037488b7e4281f2
-
-"Hookah" (https://skfb.ly/6VVW6) by Irina.Tuchna is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/cougar-statue-bc6268a7916d48729f9afac0f1eb0cd9#download
 
@@ -618,5 +595,22 @@ https://sketchfab.com/3d-models/byzantine-medieval-papyrus-6c2e2e130a244ed7a49d7
 "Byzantine-Medieval Papyrus" (https://skfb.ly/6XWIL) by Thomas Flynn is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/decorative-battle-axe-97575b982f5944baa0c9062d8107a983
+
+https://sketchfab.com/3d-models/antique-vase-a77bf5fbb25a48dca01665bb90be4e75
+
+"Antique Vase" (https://skfb.ly/LLuB) by gerasimimumu is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+https://www.nexusmods.com/skyrim/mods/16525
+Modder's Resource Pack by Oaristys and Tony67
+
+https://www.nexusmods.com/skyrim/mods/68755
+Modder's Resource Pack - The Witcher Extension by Oaristys (and CDPR)
+
+https://www.nexusmods.com/skyrim/mods/77097
+The Witcher 3 Mega Resource Pack by LorSakyamuni (and CDPR)
+
+https://sketchfab.com/3d-models/rocking-horse-a528a0b436ea4856a59395d72424bfed
+
+"Rocking horse" (https://skfb.ly/o8tXQ) by Dmitriy Nikonov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 
