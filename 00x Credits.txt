@@ -1,6 +1,5 @@
 ESRGAN models:
 jpeg destroyer v2
-mw upscale
 BCgone smooth/detailed
 Universal upscaler soft/detailed
 Jaywreck lite
@@ -71,10 +70,6 @@ https://sketchfab.com/3d-models/bronze-age-axe-b81ee521f1184a03b7982500095a5697
 https://sketchfab.com/3d-models/bronze-ornamental-vase-b6ee5655b0fb48769e277304af985313
 
 "Bronze Ornamental Vase" (https://skfb.ly/6SZS8) by Daniil Lebedev is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/fantasy-pottery-0d4a02c966414167b2f6af3ee8443611
-
-"Fantasy Pottery" (https://skfb.ly/ULqL) by kumabeer is licensed under CC Attribution-NonCommercial-NoDerivs (http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 https://sketchfab.com/3d-models/painted-cat-rock-77c2fdfe2dca452895f0a732e447649d
 
@@ -222,10 +217,6 @@ https://sketchfab.com/3d-models/panpipes-free-download-5836cfe3f6384d349fd00692a
 
 "Panpipes [free download]" (https://skfb.ly/6XAL8) by scrampunk is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/kobza-9c0c95914b214b25b944694ede6dccb5
-
-"Kobza" (https://skfb.ly/6FNqU) by Michael Kriat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/ornate-antique-candlestick-cb0da4f8de694e1a9a3f58911f218a1c
 
 "Ornate Antique Candlestick" (https://skfb.ly/6WIKL) by avatrass is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -281,10 +272,6 @@ https://sketchfab.com/3d-models/forgotten-skull-a3d96696c1c140429dc2499d731be479
 https://sketchfab.com/3d-models/old-anvil-0c169611fec5415da9e8fec0410404a1
 
 "Old Anvil" (https://skfb.ly/6SNNC) by Filip is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/dagger-of-thorns-47e0640438e3422db33c3b095f957b7c
-
-"Dagger of Thorns" (https://skfb.ly/UBQI) by Thomas Fraser is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/regency-style-knife-and-fork-props-tarnished-8d7ecf3089734f7491523a54bb751438
 
@@ -398,8 +385,6 @@ https://sketchfab.com/3d-models/ancient-food-vessel-game-ready-2k-pbr-5aaa067083
 
 "Ancient Food Vessel (Game Ready / 2K PBR)" (https://skfb.ly/ooVnE) by Meerschaum Digital is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/vincent-van-goghs-olive-trees-0a4e3af44632467f901c23fd140fedc2
-
 https://sketchfab.com/3d-models/mace-of-the-minotaur-ba52432a9b124bd59ae35b3ef9e849e9
 
 "Mace of The Minotaur" (https://skfb.ly/6GtGq) by aqwaqwaq8 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
@@ -510,17 +495,9 @@ https://sketchfab.com/3d-models/11th-mystery-lupa-antigua-a4e4732471094091a83da1
 
 "11th - Mystery // Lupa Antigua" (https://skfb.ly/6WMIv) by Ringo Gunther is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-https://sketchfab.com/3d-models/skull-of-goblin-b94eecadc97d495e9f275d9c91adba42
-
-"Skull of goblin" (https://skfb.ly/6xRXF) by lostsoundzz is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 https://sketchfab.com/3d-models/bc0002-c36982ac8e2946aaa23a006d790d7c6f
 
 "Скульптура народна “Олень”  BC0002" (https://skfb.ly/oqROq) by BarCeramic is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-https://sketchfab.com/3d-models/painting-by-zdzislaw-beksinski-1-1b314ec7363f44b296be25f48804451b
-
-"Painting by Zdzislaw Beksinski (1)" (https://skfb.ly/6zx9M) by SebastianSosnowski is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 https://sketchfab.com/3d-models/dragon-goblet-0c695cab0ce140fcbfe28442a6b79ea7
 
@@ -612,5 +589,23 @@ The Witcher 3 Mega Resource Pack by LorSakyamuni (and CDPR)
 https://sketchfab.com/3d-models/rocking-horse-a528a0b436ea4856a59395d72424bfed
 
 "Rocking horse" (https://skfb.ly/o8tXQ) by Dmitriy Nikonov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/golden-bug-day-17-3064aefa7dc94ec38bbf6b9a7730baf2
+
+"Golden bug - Day 17" (https://skfb.ly/o8npW) by patrakeevasveta is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://www.rawpixel.com/image/3868082/illustration-image-art-vincent-van-gogh
+River Bank in Springtime - Painting 03
+
+https://commons.wikimedia.org/wiki/File:Hermann_Behrens_Weiblicher_Akt_mit_Tod_1901.jpg
+Death and the Maiden - Painting 06
+
+https://www.nexusmods.com/skyrimspecialedition/mods/42813
+https://www.nexusmods.com/skyrimspecialedition/mods/62080
+https://www.nexusmods.com/skyrim/mods/76992
+Heartbreaker Ancient Orcish Warhammer, and Grey Aegis by Ronnie Magnum
+
+Tattered note -
+The Moon by James Russell Lowell
 
 
